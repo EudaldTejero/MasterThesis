@@ -1,4 +1,4 @@
-#Each HPO term in 'pheno_to_gene.txt' to retrive its associated gene
+#Each HPO term in 'pheno_to_gene.txt' to retrieve its associated gene
 
 genes=$(cat final_hpo.list | while read line
 do 
